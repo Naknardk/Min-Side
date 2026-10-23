@@ -6,5 +6,5 @@ website:
   title: "Philip"
   navbar:
     left:
-     - index.qmd
+     - index.qmd 
      - python.qmd
