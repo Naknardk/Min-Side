@@ -1,47 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "rrrr",
-    "section": "",
-    "text": "rrrr"
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "CV",
-    "section": "",
-    "text": "2010-2021\n\nFolkeskole, Kildebjergskolen i Mørkøv"
-  },
-  {
-    "objectID": "cv.html#udannelse",
-    "href": "cv.html#udannelse",
-    "title": "CV",
-    "section": "",
-    "text": "2010-2021\n\nFolkeskole, Kildebjergskolen i Mørkøv"
-  },
-  {
-    "objectID": "cv.html#om-mig",
-    "href": "cv.html#om-mig",
-    "title": "CV",
-    "section": "",
-    "text": "Caption"
-  },
-  {
-    "objectID": "python.html#getting-up",
-    "href": "python.html#getting-up",
-    "title": "Habits",
-    "section": "Getting up",
-    "text": "Getting up\n\nTurn off alarm\nGet out of bed"
-  },
-  {
-    "objectID": "python.html#going-to-sleep",
-    "href": "python.html#going-to-sleep",
-    "title": "CV",
-    "section": "Going to sleep",
-    "text": "Going to sleep\n\nGet in bed\nCount sheep"
-  },
-  {
     "objectID": "python.html#hvem-er-jeg",
     "href": "python.html#hvem-er-jeg",
     "title": "CV",
@@ -53,6 +11,6 @@
     "href": "python.html#uddanelse",
     "title": "CV",
     "section": "uddanelse",
-    "text": "uddanelse\n\nGymnasie: slotshaven Holbæk"
+    "text": "uddanelse\n\nGymnasie: slotshaven Holbæk\nunniversitet"
   }
 ]
