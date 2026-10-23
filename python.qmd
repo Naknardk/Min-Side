@@ -13,3 +13,4 @@ format: revealjs
 ## uddanelse
 
 - Gymnasie: slotshaven Holbæk
+- unniversitet
