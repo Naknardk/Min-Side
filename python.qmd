@@ -1,0 +1,15 @@
+---
+title: "CV"
+author: "Philip Haahr"
+format: revealjs
+---
+
+## Hvem er jeg {background-color="black" background-image="Billede2.png" background-size="100px" background-repeat="repeat"}
+
+
+- 22 år gammel 
+- fra Aalborg
+
+## uddanelse
+
+- Gymnasie: slotshaven Holbæk
