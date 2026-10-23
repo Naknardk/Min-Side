@@ -1,7 +1,8 @@
 ---
 Title: "welcome"
-format: html
-   theme: cosmo 
+format: 
+    html:
+       theme: cosmo 
 
 ---
 
