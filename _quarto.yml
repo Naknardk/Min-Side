@@ -7,4 +7,4 @@ website:
   navbar:
     left:
      - index.qmd
-     - cv.qmd
+     - python.qmd
