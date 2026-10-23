@@ -7,4 +7,8 @@ website:
   navbar:
     left:
      - index.qmd
-        
+     - cv.qmd
+
+format: 
+  html:
+      theme: united

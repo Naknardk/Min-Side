@@ -1,8 +1,5 @@
 ---
 Title: "welcome"
-format: 
-    html:
-       theme: cosmo 
 ---
 
 # rrrr
